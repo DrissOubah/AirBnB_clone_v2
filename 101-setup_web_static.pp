@@ -1,5 +1,3 @@
-# 101-setup_web_static.pp
-
 # Configures a web server for deployment of web_static.
 
 # Nginx configuration file
